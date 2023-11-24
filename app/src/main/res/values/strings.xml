@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JetSubmission</string>
+    <string name="required_harga">Rp.%d</string>
+    <string name="share_message">Hey, I have buy %1$d skincare in Toko with total Rp. %2$d Price. Do you want too?</string>
+    <string name="kerangjang">Keranjang</string>
+    <string name="total_order">"Total pesanan : Rp. %d "</string>
+    <string name="back">Back</string>
+    <string name="add_keranjang">Tambah ke Keranjang : Rp.%d</string>
+    <string name="profile_alega">Profile Alega</string>
+    <string name="name">Alega Cahya Saputra</string>
+    <string name="email">senseialegaasptr@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_keranjang">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="toko_skincare">Toko Skincare</string>
+</resources>
